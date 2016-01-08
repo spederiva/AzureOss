@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="argossTodo" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^\\\\psf\\Home\\Desktop\\Oss\ Argentina\\Demo\ WebSite\ -\ Todo\\MyTODO-master\\source\\MyTodo\.Web\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^\\\\psf\\Home\\Desktop\\Oss\ Argentina\\Demo\ WebSite\ -\ Todo\\MyTODO-master\\source\\MyTodo\.Web\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="MyTodoContext-Web.config Connection String" description="" value="Data Source=tcp:argosssqlserver.database.windows.net,1433;Initial Catalog=argossTodo_db;User Id=spederiva@argosssqlserver;Password=Qwe12345" tags="">
+    <parameterEntry kind="XmlFile" scope="\\\\psf\\Home\\Desktop\\Oss\ Argentina\\Demo\ WebSite\ -\ Todo\\MyTODO-master\\source\\MyTodo\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MyTodoContext']/@connectionString" />
+  </parameter>
+</parameters>

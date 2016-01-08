@@ -1,0 +1,7 @@
+\\psf\Home\Desktop\Oss Argentina\Demo WebSite - Todo\MyTODO-master\source\MyTodo.Model\bin\Release\MyTodo.Model.dll.config
+\\psf\Home\Desktop\Oss Argentina\Demo WebSite - Todo\MyTODO-master\source\MyTodo.Model\bin\Release\MyTodo.Model.dll
+\\psf\Home\Desktop\Oss Argentina\Demo WebSite - Todo\MyTODO-master\source\MyTodo.Model\bin\Release\MyTodo.Model.pdb
+\\psf\Home\Desktop\Oss Argentina\Demo WebSite - Todo\MyTODO-master\source\MyTodo.Model\bin\Release\EntityFramework.dll
+\\psf\Home\Desktop\Oss Argentina\Demo WebSite - Todo\MyTODO-master\source\MyTodo.Model\bin\Release\EntityFramework.xml
+\\psf\Home\Desktop\Oss Argentina\Demo WebSite - Todo\MyTODO-master\source\MyTodo.Model\obj\Release\MyTodo.Model.dll
+\\psf\Home\Desktop\Oss Argentina\Demo WebSite - Todo\MyTODO-master\source\MyTodo.Model\obj\Release\MyTodo.Model.pdb

@@ -1,0 +1,18 @@
+CREATE TABLE census(
+				Sumlev string,
+				State string,
+				County string,
+				Stname string,
+				Ctyname string,
+				Sex string,
+				Origin string,
+				Agegrp string,
+				Imprace string,
+				Respop string)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
+
+LOAD DATA INPATH '/example/Census.dat'  INTO TABLE census;
+
+select * from census limit 10;
+
+Select Ctyname, count(1) pop from census group by Ctyname

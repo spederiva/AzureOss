@@ -1,0 +1,6 @@
+{
+  "STORAGE_NAME": "osschilemystorage",
+  "STORAGE_KEY": "Od3VXVzA35y0FT9eAy6yNRuRx6wfnPS1nsPoMNuvHzpYb0QL5XYLAJzl0dbCJ/uwdZcIIJWqoEpvduHvXTKeqA==",
+  "PARTITION_KEY": "mytasks",
+  "TABLE_NAME": "tasks"
+}

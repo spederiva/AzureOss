@@ -1,0 +1,14 @@
+web:
+  build: .
+  expose:
+   - "8080"
+
+lb:
+  image: tutum/haproxy
+  links:
+   - web
+  ports:
+   - "80:80"
+  environment:
+   - BACKEND_PORT=8080
+   - BALANCE=roundrobin

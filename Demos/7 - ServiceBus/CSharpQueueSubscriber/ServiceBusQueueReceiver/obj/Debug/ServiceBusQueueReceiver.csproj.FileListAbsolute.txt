@@ -1,0 +1,30 @@
+c:\users\israel\documents\visual studio 2013\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\bin\Debug\ServiceBusQueueReceiver.exe.config
+c:\users\israel\documents\visual studio 2013\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\bin\Debug\ServiceBusQueueReceiver.exe
+c:\users\israel\documents\visual studio 2013\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\bin\Debug\ServiceBusQueueReceiver.pdb
+c:\users\israel\documents\visual studio 2013\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\israel\documents\visual studio 2013\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\israel\documents\visual studio 2013\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\israel\documents\visual studio 2013\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+c:\users\israel\documents\visual studio 2013\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\obj\Debug\ServiceBusQueueReceiver.csprojResolveAssemblyReference.cache
+c:\users\israel\documents\visual studio 2013\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\obj\Debug\ServiceBusQueueReceiver.exe
+c:\users\israel\documents\visual studio 2013\Projects\ServiceBusQueueReceiver\ServiceBusQueueReceiver\obj\Debug\ServiceBusQueueReceiver.pdb
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\bin\Debug\ServiceBusQueueReceiver.exe.config
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\obj\Debug\ServiceBusQueueReceiver.exe
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\obj\Debug\ServiceBusQueueReceiver.pdb
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\bin\Debug\ServiceBusQueueReceiver.exe
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\bin\Debug\ServiceBusQueueReceiver.pdb
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\obj\Debug\ServiceBusQueueReceiver.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Oss\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\bin\Debug\ServiceBusQueueReceiver.exe.config
+\\psf\Home\Desktop\Oss\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\obj\Debug\ServiceBusQueueReceiver.exe
+\\psf\Home\Desktop\Oss\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\obj\Debug\ServiceBusQueueReceiver.pdb
+\\psf\Home\Desktop\Oss\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\bin\Debug\ServiceBusQueueReceiver.exe
+\\psf\Home\Desktop\Oss\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\bin\Debug\ServiceBusQueueReceiver.pdb
+\\psf\Home\Desktop\Oss\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\bin\Debug\Microsoft.ServiceBus.dll
+\\psf\Home\Desktop\Oss\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+\\psf\Home\Desktop\Oss\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\bin\Debug\Microsoft.ServiceBus.xml
+\\psf\Home\Desktop\Oss\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+\\psf\Home\Desktop\Oss\ServiceBus\CSharpQueueSubscriber\ServiceBusQueueReceiver\obj\Debug\ServiceBusQueueReceiver.csprojResolveAssemblyReference.cache

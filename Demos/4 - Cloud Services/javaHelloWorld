@@ -1,0 +1,27 @@
+  <h1 style="color:red">Hello Cloud Services!</h1>
+  <h2>I'm a Java app</h2>
+
+  <ul>
+  <%@ page import="java.util.*" %>
+  <%
+      ArrayList<String> mainPageProps = new ArrayList<String>();
+      mainPageProps.add("java.version");
+      mainPageProps.add("java.vendor");
+      mainPageProps.add("os.arch");
+      mainPageProps.add("catalina.base");
+      mainPageProps.add("jetty.base");
+      mainPageProps.add("user.timezone");
+      for(String name : mainPageProps)
+      {
+        String value = System.getProperty(name);
+        if(value != null)
+        {
+          out.print("<li>");
+          out.print(name);
+          out.print(": ");
+          out.print(value);
+          out.print("</li>");
+        }
+      }
+  %>
+  </ul>

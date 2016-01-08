@@ -1,0 +1,8 @@
+\\psf\Home\Desktop\Oss Argentina\Demo WebSite - Todo\MyTODO-master\source\MyTodo.Model\bin\Debug\MyTodo.Model.dll.config
+\\psf\Home\Desktop\Oss Argentina\Demo WebSite - Todo\MyTODO-master\source\MyTodo.Model\bin\Debug\MyTodo.Model.dll
+\\psf\Home\Desktop\Oss Argentina\Demo WebSite - Todo\MyTODO-master\source\MyTodo.Model\bin\Debug\MyTodo.Model.pdb
+\\psf\Home\Desktop\Oss Argentina\Demo WebSite - Todo\MyTODO-master\source\MyTodo.Model\bin\Debug\EntityFramework.dll
+\\psf\Home\Desktop\Oss Argentina\Demo WebSite - Todo\MyTODO-master\source\MyTodo.Model\bin\Debug\EntityFramework.xml
+\\psf\Home\Desktop\Oss Argentina\Demo WebSite - Todo\MyTODO-master\source\MyTodo.Model\obj\Debug\MyTodo.Model.dll
+\\psf\Home\Desktop\Oss Argentina\Demo WebSite - Todo\MyTODO-master\source\MyTodo.Model\obj\Debug\MyTodo.Model.pdb
+\\psf\Home\Desktop\Oss Argentina\Demo WebSite - Todo\MyTODO-master\source\MyTodo.Model\obj\Debug\MyTodo.Model.csprojResolveAssemblyReference.cache

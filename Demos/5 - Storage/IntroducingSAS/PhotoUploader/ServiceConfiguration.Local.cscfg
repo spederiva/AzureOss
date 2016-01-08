@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="PhotoUploader" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="3" osVersion="*" schemaVersion="2015-04.2.6">
+  <Role name="QueueProcessor_WorkerRole">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="StorageConnectionString" value="DefaultEndpointsProtocol=http;AccountName=osschilephotogallery;AccountKey=970R3ed/fDToAGKbwBq+HM2rsiWUrd/u9klnC9weUK0w+44E+vceT0GPSk1iF2PoIfM6tgxxVzFr0AkikT4stA==" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.Enabled" value="true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountUsername" value="spederiva" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountEncryptedPassword" value="MIIBnQYJKoZIhvcNAQcDoIIBjjCCAYoCAQAxggFOMIIBSgIBADAyMB4xHDAaBgNVBAMME1dpbmRvd3MgQXp1cmUgVG9vbHMCEGWfwQIMgAuhSEihNIZGyCUwDQYJKoZIhvcNAQEBBQAEggEAIcqDZWUNTt5Rw6WXfls7HYOUIl23QAV50jskqnok0Zo27YSn/WbM7DIyUXngd6MrxcKzC5ipIGrTUegV4TH74zOULR4NGfvZRH92OC9ChUpwcOvk0MURVDx8p3fGUkp7PtW0iT7gm8YPgf2aAlqDMxQud5ZPk/sRYcX+NMsYMt5/LyEoyNgUFRKzSMKvpnk6+58wPhzb1NcZRGqYNlsHyiG22ZXH6E9NQ8IngAnThjV5Jf4VWZexzX3AyN/AhrVLuWBQ0AVynPb76pp6/apb7lkPIVNY7AO9v+1U/3b1qDWMYyxl7MjcU3b7L9DxQOHSgMQFSzmWcSLoe6mgPEea1TAzBgkqhkiG9w0BBwEwFAYIKoZIhvcNAwcECLIbEtdyhYtXgBAIBND2FEX637F3RfGwR5qH" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountExpiration" value="2017-01-06T23:59:59.0000000+02:00" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteForwarder.Enabled" value="true" />
+    </ConfigurationSettings>
+    <Certificates>
+      <Certificate name="Microsoft.WindowsAzure.Plugins.RemoteAccess.PasswordEncryption" thumbprint="752714AFB9B2320C33BD5620BB7C7CA02DCE9D98" thumbprintAlgorithm="sha1" />
+    </Certificates>
+  </Role>
+  <Role name="PhotoUploader_WebRole">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="StorageConnectionString" value="DefaultEndpointsProtocol=http;AccountName=osschilephotogallery;AccountKey=970R3ed/fDToAGKbwBq+HM2rsiWUrd/u9klnC9weUK0w+44E+vceT0GPSk1iF2PoIfM6tgxxVzFr0AkikT4stA==" />
+      <Setting name="ContainerName" value="gallery" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.Enabled" value="true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountUsername" value="spederiva" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountEncryptedPassword" value="MIIBnQYJKoZIhvcNAQcDoIIBjjCCAYoCAQAxggFOMIIBSgIBADAyMB4xHDAaBgNVBAMME1dpbmRvd3MgQXp1cmUgVG9vbHMCEGWfwQIMgAuhSEihNIZGyCUwDQYJKoZIhvcNAQEBBQAEggEAIcqDZWUNTt5Rw6WXfls7HYOUIl23QAV50jskqnok0Zo27YSn/WbM7DIyUXngd6MrxcKzC5ipIGrTUegV4TH74zOULR4NGfvZRH92OC9ChUpwcOvk0MURVDx8p3fGUkp7PtW0iT7gm8YPgf2aAlqDMxQud5ZPk/sRYcX+NMsYMt5/LyEoyNgUFRKzSMKvpnk6+58wPhzb1NcZRGqYNlsHyiG22ZXH6E9NQ8IngAnThjV5Jf4VWZexzX3AyN/AhrVLuWBQ0AVynPb76pp6/apb7lkPIVNY7AO9v+1U/3b1qDWMYyxl7MjcU3b7L9DxQOHSgMQFSzmWcSLoe6mgPEea1TAzBgkqhkiG9w0BBwEwFAYIKoZIhvcNAwcECLIbEtdyhYtXgBAIBND2FEX637F3RfGwR5qH" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountExpiration" value="2017-01-06T23:59:59.0000000+02:00" />
+    </ConfigurationSettings>
+    <Certificates>
+      <Certificate name="Microsoft.WindowsAzure.Plugins.RemoteAccess.PasswordEncryption" thumbprint="752714AFB9B2320C33BD5620BB7C7CA02DCE9D98" thumbprintAlgorithm="sha1" />
+    </Certificates>
+  </Role>
+</ServiceConfiguration>

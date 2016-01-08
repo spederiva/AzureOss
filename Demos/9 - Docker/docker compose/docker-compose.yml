@@ -1,0 +1,16 @@
+web:
+  build: .
+  expose:
+    - 80
+haproxy:
+  image: hypriot/rpi-haproxy
+  volumes:
+   - ./haproxy:/haproxy-override
+  links:
+   - web
+  ports:
+   - "80:80"
+   - "70:70"
+  expose:
+   - "80"
+   - "70"

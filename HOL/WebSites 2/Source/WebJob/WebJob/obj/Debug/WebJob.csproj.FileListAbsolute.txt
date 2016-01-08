@@ -1,0 +1,14 @@
+\\psf\Home\Downloads\Azure-training-course-master-2\Day 1\2. HOL Microsoft Azure Web Sites\Source\WebJob\WebJob\bin\Debug\WebJob.exe.config
+\\psf\Home\Downloads\Azure-training-course-master-2\Day 1\2. HOL Microsoft Azure Web Sites\Source\WebJob\WebJob\bin\Debug\WebJob.exe
+\\psf\Home\Downloads\Azure-training-course-master-2\Day 1\2. HOL Microsoft Azure Web Sites\Source\WebJob\WebJob\bin\Debug\WebJob.pdb
+\\psf\Home\Downloads\Azure-training-course-master-2\Day 1\2. HOL Microsoft Azure Web Sites\Source\WebJob\WebJob\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+\\psf\Home\Downloads\Azure-training-course-master-2\Day 1\2. HOL Microsoft Azure Web Sites\Source\WebJob\WebJob\bin\Debug\Microsoft.WindowsAzure.Jobs.dll
+\\psf\Home\Downloads\Azure-training-course-master-2\Day 1\2. HOL Microsoft Azure Web Sites\Source\WebJob\WebJob\bin\Debug\Microsoft.WindowsAzure.Jobs.Host.dll
+\\psf\Home\Downloads\Azure-training-course-master-2\Day 1\2. HOL Microsoft Azure Web Sites\Source\WebJob\WebJob\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+\\psf\Home\Downloads\Azure-training-course-master-2\Day 1\2. HOL Microsoft Azure Web Sites\Source\WebJob\WebJob\bin\Debug\Newtonsoft.Json.dll
+\\psf\Home\Downloads\Azure-training-course-master-2\Day 1\2. HOL Microsoft Azure Web Sites\Source\WebJob\WebJob\bin\Debug\Microsoft.WindowsAzure.Jobs.xml
+\\psf\Home\Downloads\Azure-training-course-master-2\Day 1\2. HOL Microsoft Azure Web Sites\Source\WebJob\WebJob\bin\Debug\Microsoft.WindowsAzure.Jobs.Host.xml
+\\psf\Home\Downloads\Azure-training-course-master-2\Day 1\2. HOL Microsoft Azure Web Sites\Source\WebJob\WebJob\bin\Debug\Newtonsoft.Json.xml
+\\psf\Home\Downloads\Azure-training-course-master-2\Day 1\2. HOL Microsoft Azure Web Sites\Source\WebJob\WebJob\obj\Debug\WebJob.exe
+\\psf\Home\Downloads\Azure-training-course-master-2\Day 1\2. HOL Microsoft Azure Web Sites\Source\WebJob\WebJob\obj\Debug\WebJob.pdb
+\\psf\Home\Downloads\Azure-training-course-master-2\Day 1\2. HOL Microsoft Azure Web Sites\Source\WebJob\WebJob\obj\Debug\WebJob.csprojResolveAssemblyReference.cache
