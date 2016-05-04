@@ -1,0 +1,3 @@
+http://drew5.net/2014/03/02/cannot-install-windows-azure-vpn-client-after-uninstall/
+
+delete keys at : C:\Users\Israel\AppData\Roaming\Microsoft\Network\Connections

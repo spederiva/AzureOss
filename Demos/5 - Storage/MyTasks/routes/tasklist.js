@@ -11,6 +11,8 @@ TaskList.prototype = {
         var query = new azure.TableQuery()
             .where('completed eq ?', false);
         self.task.find(query, function itemsFound(error, items) {
+console.log(items);
+
             res.render('index',{title: 'My ToDo List ', tasks: items});
         });
     },
@@ -20,7 +22,8 @@ TaskList.prototype = {
         var item = {
             name:req.body.name,
             category: req.body.category,
-            date: new Date()
+            date: new Date(),
+            env: "Chile"
         };
         self.task.addItem(item, function itemAdded(error) {
             if(error) {

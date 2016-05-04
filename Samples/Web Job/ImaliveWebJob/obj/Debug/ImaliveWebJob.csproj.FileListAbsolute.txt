@@ -1,0 +1,12 @@
+c:\users\israel\documents\visual studio 2013\Projects\ImaliveWebJob\ImaliveWebJob\bin\Debug\ImaliveWebJob.exe.config
+c:\users\israel\documents\visual studio 2013\Projects\ImaliveWebJob\ImaliveWebJob\bin\Debug\ImaliveWebJob.exe
+c:\users\israel\documents\visual studio 2013\Projects\ImaliveWebJob\ImaliveWebJob\bin\Debug\ImaliveWebJob.pdb
+c:\users\israel\documents\visual studio 2013\Projects\ImaliveWebJob\ImaliveWebJob\obj\Debug\ImaliveWebJob.csprojResolveAssemblyReference.cache
+c:\users\israel\documents\visual studio 2013\Projects\ImaliveWebJob\ImaliveWebJob\obj\Debug\ImaliveWebJob.exe
+c:\users\israel\documents\visual studio 2013\Projects\ImaliveWebJob\ImaliveWebJob\obj\Debug\ImaliveWebJob.pdb
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\Web Job\ImaliveWebJob\bin\Debug\ImaliveWebJob.exe.config
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\Web Job\ImaliveWebJob\obj\Debug\ImaliveWebJob.exe
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\Web Job\ImaliveWebJob\obj\Debug\ImaliveWebJob.pdb
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\Web Job\ImaliveWebJob\bin\Debug\ImaliveWebJob.exe
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\Web Job\ImaliveWebJob\bin\Debug\ImaliveWebJob.pdb
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\Web Job\ImaliveWebJob\obj\Debug\ImaliveWebJob.csprojResolveAssemblyReference.cache

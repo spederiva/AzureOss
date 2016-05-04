@@ -37,6 +37,9 @@ Task.prototype = {
             category: entityGen.String(item.category),
             completed: entityGen.Boolean(false)
         };
+
+        console.log(itemDescriptor);
+
         self.storageClient.insertEntity(self.tableName, itemDescriptor, function entityInserted(error) {
             if (error) {
                 callback(error);
@@ -52,6 +55,9 @@ Task.prototype = {
                 callback(error);
             }
             entity.completed._ = true;
+
+console.log("updateItem");
+
             self.storageClient.updateEntity(self.tableName, entity, function entityUpdated(error) {
                 if (error) {
                     callback(error);

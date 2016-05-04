@@ -1,0 +1,70 @@
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\WebApp_DocumentDB.dll.config
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\WebApp_DocumentDB.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\WebApp_DocumentDB.pdb
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\Antlr3.Runtime.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\Newtonsoft.Json.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Net.Http.Formatting.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.Helpers.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.Http.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.Http.WebHost.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.Mvc.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.Optimization.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.Razor.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.WebPages.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\WebGrease.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\Newtonsoft.Json.xml
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Net.Http.Formatting.xml
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.Helpers.xml
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.Http.xml
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.Http.WebHost.xml
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.Mvc.xml
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.Optimization.xml
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.Razor.xml
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.WebPages.xml
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\bin\Antlr3.Runtime.pdb
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\obj\Debug\WebApp_DocumentDB.csprojResolveAssemblyReference.cache
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\obj\Debug\WebApp_DocumentDB.dll
+C:\Users\Israel\Desktop\Azure CloudCamp Slides\Samples\WebApp_DocumentDB\WebApp_DocumentDB\obj\Debug\WebApp_DocumentDB.pdb
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\WebApp_DocumentDB.dll.config
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\WebApp_DocumentDB.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\WebApp_DocumentDB.pdb
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\Antlr3.Runtime.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\Newtonsoft.Json.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Net.Http.Formatting.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.Helpers.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.Http.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.Http.WebHost.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.Mvc.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.Optimization.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.Razor.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.WebPages.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\WebGrease.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\Newtonsoft.Json.xml
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Net.Http.Formatting.xml
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.Helpers.xml
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.Http.xml
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.Http.WebHost.xml
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.Mvc.xml
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.Optimization.xml
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.Razor.xml
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.WebPages.xml
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\bin\Antlr3.Runtime.pdb
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\obj\Debug\WebApp_DocumentDB.csprojResolveAssemblyReference.cache
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\obj\Debug\WebApp_DocumentDB.dll
+C:\Users\Israel\Desktop\Azure CloudCamp\Samples\DocumentDB\WebApp_DocumentDB\obj\Debug\WebApp_DocumentDB.pdb

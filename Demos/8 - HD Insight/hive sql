@@ -16,3 +16,6 @@ LOAD DATA INPATH '/example/Census.dat'  INTO TABLE census;
 select * from census limit 10;
 
 Select Ctyname, count(1) pop from census group by Ctyname
+
+
+Select Stname, count(1) pop from census group by Stname

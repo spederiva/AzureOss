@@ -3,14 +3,38 @@
 	{
 		"selected_items":
 		[
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"item",
+				"itemDescriptor"
+			],
+			[
+				"backgr",
+				"background-color"
+			]
 		]
 	},
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 87.0,
+		"height": 307.0,
 		"selected_items":
 		[
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"",
+				"Markdown Preview: Preview in Browser"
+			],
 			[
 				"Package Control: install",
 				"Package Control: Install Package"
@@ -32,10 +56,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"",
-				"About"
-			],
-			[
 				"instal",
 				"Package Control: Advanced Install Package"
 			],
@@ -44,7 +64,7 @@
 				"Package Control: Advanced Install Package"
 			]
 		],
-		"width": 530.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -61,6 +81,46 @@
 	},
 	"file_history":
 	[
+		"/Users/sebastianp/Documents/Professional/Azure/DevCamp/HOL/README.md",
+		"/Users/sebastianp/Documents/Professional/Big Data - Hadoop&Spark/Spark/Ws2.sc",
+		"/Users/sebastianp/Documents/Professional/Azure/Azure - Oss/Demos/3 - WebSites/HelloWorld/package.json",
+		"/Users/sebastianp/Documents/Professional/Azure/Azure - Oss/Demos/5 - Storage/MyTasks/models/task.js",
+		"/Users/sebastianp/Documents/Professional/Azure/Azure - Oss/Demos/5 - Storage/MyTasks/routes/index.js",
+		"/Users/sebastianp/Documents/Professional/Azure/Azure - Oss/Demos/5 - Storage/MyTasks/routes/tasklist.js",
+		"/Users/sebastianp/Documents/Professional/Azure/Azure - Oss/Demos/5 - Storage/MyTasks/app.js",
+		"/Users/sebastianp/Documents/Professional/Azure/Azure - Oss/Demos/3 - WebSites/HelloWorld/views/upload.jade",
+		"/Users/sebastianp/Documents/Professional/Azure/Azure - Oss/Demos/3 - WebSites/HelloWorld/routes/upload.js",
+		"/Users/sebastianp/Documents/Professional/Azure/Azure - Oss/Demos/3 - WebSites/HelloWorld/server.js",
+		"/Users/sebastianp/Documents/Professional/Azure/Azure - Oss/Demos/3 - WebSites/HelloWorld/views/layout.jade",
+		"/Users/sebastianp/Documents/Professional/Azure/Azure - Oss/Demos/3 - WebSites/HelloWorld/routes/root.js",
+		"/Users/sebastianp/Documents/Professional/Azure/Azure - Oss/Demos/3 - WebSites/HelloWorld/views/index.jade",
+		"/Users/sebastianp/Documents/Professional/Azure/Azure - Oss/Demos/3 - WebSites/HelloWorld/views/users.jade",
+		"/Users/sebastianp/Documents/Professional/Azure/Azure - Oss/Demos/3 - WebSites/HelloWorld/public/stylesheets/style.css",
+		"/Users/sebastianp/Documents/Professional/Azure/Azure - Oss/Demos/3 - WebSites/HelloWorld/routes/users.js",
+		"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Demos/5 - Storage/MyTasks/routes/tasklist.js",
+		"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Demos/5 - Storage/MyTasks/models/task.js",
+		"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Demos/5 - Storage/MyTasks/app.js",
+		"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Demos/5 - Storage/MyTasks/node_modules/azure-storage/examples/samples/tablequerysample.js",
+		"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Demos/5 - Storage/MyTasks/config.json",
+		"/Users/sebastianp/Downloads/WebRole1_IN_0 (1).rdp",
+		"/Users/sebastianp/Downloads/osschilewinvs (4).rdp",
+		"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Demos/8 - HD Insight/hive sql",
+		"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Demos/9 - Docker/dockerfile/index.html",
+		"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Demos/9 - Docker/haproxy/docker-compose.yml",
+		"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Demos/9 - Docker/haproxy/Dockerfile",
+		"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Demos/9 - Docker/haproxy/app.py",
+		"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Demos/9 - Docker/haproxy/requirements.txt",
+		"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Demos/4 - Cloud Services/javaHelloWorld",
+		"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Agenda",
+		"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Demos/3 - WebSites/HelloWorld/public/stylesheets/style.css",
+		"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Demos/3 - WebSites/HelloWorld/views/index.jade",
+		"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Demos/3 - WebSites/HelloWorld/routes/root.js",
+		"/Users/sebastianp/Desktop/Azure/MicrosoftAzureTrainingKit/HOLs/HOL-GettingStartedWindowsAzureStorage/HOL.md",
+		"/Users/sebastianp/Library/Application Support/Sublime Text 2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/sebastianp/Desktop/Azure/MicrosoftAzureTrainingKit/HOLs/HOL-GettingStartedWindowsAzureStorage/HOL.html",
+		"/Users/sebastianp/Library/Application Support/Sublime Text 2/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/sebastianp/Desktop/Azure/MicrosoftAzureTrainingKit/HOLs/HOL-GettingStartedWindowsAzureStorage/Lab.xml",
+		"/Users/sebastianp/Downloads/Lost complete Season 2 by Bzingaz (RiddlerA)/Lost - [2x01] - Man of Science  Man of Faith.srt",
 		"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Demos/Agenda",
 		"/Users/sebastianp/Desktop/Azure/DevCamp/README.md",
 		"/Users/sebastianp/Desktop/Azure/MicrosoftAzureTrainingKit/HOLs/HOL-WindowsAzureHDInsight/HOL.md",
@@ -72,8 +132,6 @@
 		"/Users/sebastianp/Desktop/simpleLinuxAzureDeploy.json",
 		"/Users/sebastianp/Downloads/Azure/AzureContent/includes/app-service-choose-me-content.md",
 		"/Users/sebastianp/Downloads/Azure/AzureContent/articles/application-gateway/media/application-gateway-introduction/appgateway1.png",
-		"/Users/sebastianp/Library/Application Support/Sublime Text 2/Packages/User/MarkdownPreview.sublime-settings",
-		"/Users/sebastianp/Library/Application Support/Sublime Text 2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
 		"/Users/sebastianp/Downloads/Azure/AzureContent/articles/fundamentals-introduction-to-azure.md",
 		"/Users/sebastianp/Desktop/Azure Cloud Camp Oss/MyTasks/bin/www",
 		"/Users/sebastianp/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
@@ -150,45 +208,7 @@
 		"/Users/sebastianp/Documents/Professional/Sela/Courses/AngularJs/Demos/Module 06/Transclusion/index.html",
 		"/Users/sebastianp/Documents/Professional/Sela/Courses/AngularJs/Demos/Module 06/Templates/index.html",
 		"/Users/sebastianp/Documents/Professional/Sela/Courses/AngularJs/new/AngularSuperluminalNudge/Demo/ngModelOptions.html",
-		"/Users/sebastianp/Documents/Professional/Sela/Courses/AngularJs/new/AngularSuperluminalNudge/Demo/ngMessages.html",
-		"/Users/sebastianp/Developer/ApacheRoot/FundTech/index6.html",
-		"/Users/sebastianp/Documents/Professional/Sela/Courses/AngularJs/new/AngularSuperluminalNudge/Demo/messages.html",
-		"/Users/sebastianp/Developer/ApacheRoot/FundTech/app/services/personUsingResourceService.js",
-		"/Users/sebastianp/Developer/ApacheRoot/FundTech/app/index5.js",
-		"/Users/sebastianp/Developer/ApacheRoot/FundTech/app/index6.js",
-		"/Volumes/SanDisk/Sela College/AngularJs/Samples/Sample1/index.html",
-		"/Volumes/SanDisk/Sela College/AngularJs/Samples/Sample1/index2.html",
-		"/Users/sebastianp/Library/Application Support/Sublime Text 2/Packages/User/Pretty JSON.sublime-settings",
-		"/usr/local/lib/node_modules/json-server/bin/index.js",
-		"/usr/local/lib/node_modules/json-server/data/data.json",
-		"/Users/sebastianp/Downloads/dmps/README.asc",
-		"/Users/sebastianp/Downloads/dmps/README",
-		"/Users/sebastianp/Developer/ApacheRoot/touch-2.3.0/examples/touchtomatoes/app/components/MenuButton.js",
-		"/Users/sebastianp/Developer/touch-2.3.0/examples/touchtomatoes/index.html",
-		"/Users/sebastianp/Developer/touch-2.3.0/examples/touchtomatoes/app.json",
-		"/Users/sebastianp/Developer/touch-2.3.0/examples/touchtomatoes/app.js",
-		"/Users/sebastianp/Documents/Professional/Sela/Courses/ASP.NET MVC 4 – Developing Web Applications (20486B)/Demos/AuthDemo/MvcApplication1/Web.config",
-		"/Users/sebastianp/Documents/Professional/Sela/Courses/ASP.NET MVC 4 – Developing Web Applications (20486B)/Allfiles/Mod16/Democode/OperasWebSite/OperasWebSite/Web.config",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/ShoppingList/Dror/WebApplication2/app.js",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/ShoppingList/Dror/WebApplication2/index.html",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/ShoppingList/Roshel2/MyShoppingList/Scripts/app/controllers.js",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/ShoppingList/Roshel2/MyShoppingList/index.html",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/ShoppingList/Roshel/MyShoppingList/Views/Common/wrapper.html",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/ShoppingList/Roshel/MyShoppingList/Scripts/app/config.js",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/ShoppingList/Roshel/MyShoppingList/index.html",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/ShoppingList/Roshel/MyShoppingList/Scripts/app/app.js",
-		"/Users/sebastianp/Desktop/ShoppingList/Dror/WebApplication2/main.html",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/SenchaSamples/Ux.layout.Accordion-master/index.js",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/SenchaSamples/Ext.ux.AccordionList-1.1/examples/app/store/Components.js",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/SenchaSamples/Ext.ux.AccordionList-1.1/examples/app/view/Main copy.js",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/SenchaSamples/Ext.ux.AccordionList-1.1/examples/app/view/ListItem.js",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/SenchaSamples/Ext.ux.AccordionList-1.1/examples/resources/data/testData.json",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/SenchaSamples/Ext.ux.AccordionList-1.1/examples/app/store/Task.js",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/SenchaSamples/Ext.ux.AccordionList-1.1/examples/app/view/Main.js",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/SenchaSamples/Ext.ux.AccordionList-1.1/examples/index.html",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/SenchaSamples/Ext.ux.AccordionList-1.1/examples/app.js",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/SenchaSamples/MyApp/index.html",
-		"/Users/sebastianp/Developer/ApacheRoot/Temp/SenchaSamples/Ext.ux.AccordionList-1.1/examples/bootstrap.json"
+		"/Users/sebastianp/Documents/Professional/Sela/Courses/AngularJs/new/AngularSuperluminalNudge/Demo/ngMessages.html"
 	],
 	"find":
 	{
@@ -199,6 +219,7 @@
 		"height": 0.0,
 		"where_history":
 		[
+			"/Users/sebastianp/Cloud Storage/Dropbox/Azure-Oss/Demos/5 - Storage/MyTasks",
 			"/Users/sebastianp/Downloads/Azure/AzureContent/articles",
 			"*\n,/Users/sebastianp/Downloads/Azure/AzureContent/articles,<open folders>",
 			"*\n",
@@ -213,6 +234,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"partitionKey",
+			"users",
+			"    ",
+			"insertEntity",
+			"completed",
+			"Ctyname",
+			"preview",
 			"&",
 			"&gt;",
 			"&lt;",
@@ -333,14 +361,7 @@
 			")",
 			"ng-",
 			"_random",
-			"_buildData",
-			"<script",
-			"windows 7",
-			"layo",
-			"RecalculateStyles",
-			"func",
-			"node",
-			"cy"
+			"_buildData"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -348,6 +369,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"	",
 			">",
 			"<",
 			"&",
@@ -412,6 +434,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.markdown":
+	{
+		"height": 29.0
+	},
 	"replace":
 	{
 		"height": 64.0
@@ -437,6 +463,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 331.0,
+	"side_bar_width": 218.0,
 	"status_bar_visible": true
 }
